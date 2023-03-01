@@ -1,5 +1,5 @@
 //Nhập vào số n
-let n: number = 9999999999;
+let n: number = 9843119878;
 //Tạo mảng arr để lưu cách gọi của các chữ số
 let arr: string[] = ['Không', 'Một','Hai','Ba','Bốn','Năm','Sáu','Bảy','Tám','Chín'];
 //Tạo chuỗi s chính là string của số n
